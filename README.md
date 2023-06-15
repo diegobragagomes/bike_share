@@ -66,13 +66,13 @@ Ao final dessa etapa, foi gerado um novo arquivo, nesse caso .parquet e ele foi 
 
 Com os dados disponíveis no <b> RedShift </b>, conecta-se ao <b> Metabase </b> e o foco se vira para a análise em si. Com isso, alguns cruzamentos entre os dados foram realizados para bucar extrair informações relevantes, entre eles: <br>
 
-1 - Quantidade de utilizações por ano
+<b>1 - Quantidade de utilizações por ano</b>
 
 <br><img src = "./Images/1 -Quantidade_de_utilizações_por_ano.png" alt = "Gráfico 1"><br>
 
 O gráfico demonstra a variação da quantidade de utilização do serviço ao longo dos anos. A partir dele, pode-se notar um aumento gradativo ao longo dos anos, sendo 2017 correspondente a quase o dobre de utilizações de 2014. <br><br><br>
 
-2 - Quantidade de utilizações por mês e pela média da temperatura
+<b>2 - Quantidade de utilizações por mês e pela média da temperatura</b>
 
 <br><img src = "./Images/2 - Quantidade_de_utilizações_pelo_mês_e_pela_média_e_temperatura.png" alt = "Gráfico 2"><br>
 
@@ -80,7 +80,7 @@ Pode-se perceber ao observar o gráfico que conforme a média de temperatura aum
 
 Logo, é intuito que a empresa que coordena o serviço foque mais sua estratégia nesses meses, já que a menos que ela não conseguirá com o fator externo, que no caso é o climático.<br><br><br>
 
-3 - Quantidade de utilizações por mês, pela média de temperatura e pela média da duração da viagem
+<b>3 - Quantidade de utilizações por mês, pela média de temperatura e pela média da duração da viagem</b>
 
 <br><img src = "./Images/3 - Quantidade_de utilizações_pelo mês_pela_média_de_temperatura_e_pela_média_de_duração_da_viagem.png" alt = "Gráfico 3"><br>
 
@@ -88,13 +88,13 @@ Seguindo com a análise da utilização pela temperatura, agora há a adição d
 
 Isso reforça o foco nesse período mais quente, que se estende desde maio até setembro, aproximadamente.<br><br><br>
 
-4 - Quantidade de utilizações pelo dia da semana 
+<b>4 - Quantidade de utilizações pelo dia da semana</b> 
 
 <br><img src = "./Images/4 - Quantidade_de_utilizações_pelo_dia_da_semana.png" alt = "Gráfico 4"><br>
 
 Esse e o próximo gráficos destacarão a relação da utilização das utilizações pelos dias e horas específicos para tentar entender um perfil. Nesse primeiro, pode-se notar uma característica interessante, as utilizações são cerca de 50% superiores em dias de semana que em finais de semana. O que poderia sugerir um efeito de utilização maior com a finalidade de deslocamento para o trabalho ou eventos sociais durante a semana. <br><br><br>
 
-5 - Quantidade de utilizações pela hora do dia
+<b>5 - Quantidade de utilizações pela hora do dia</b>
 
 <br><img src = "./Images/5 - Quantidade_de_utilizações_pela_hora_do_dia.png" alt = "Gráfico 5"><br>
 
@@ -102,29 +102,29 @@ Continuando a análise do gráfico anterior, a premissa da utilização com a fi
 
 Analisando essas possibilidades, uma possível campanha de marketing ou descontos para aumentar a quantidade em horários de menores incidências poderiam ser interessantes.<br><br><br>
 
-6 - Quantidade de utilizações de acordo com o tempo (clima) do dia
+<b>6 - Quantidade de utilizações de acordo com o tempo (clima) do dia</b>
 
 <br><img src = "./Images/6 - Quantidade_de_utilizações_por_como_estava_o_tempo_no_dia.png" alt = "Gráfico 6"><br>
 
 O gráfico demonstra que a esmagadora maioria dos dias de utilização são dias nublados, o que ajuda a dedução de que a influência na utilização por conta de o tempo estar bonito ou não estar o mais apropriado é pequena ou nula. <br><br><br>
 
-7 - Quantidade de utilizações por gênero
+<b>7 - Quantidade de utilizações por gênero</b>
 
 <br><img src = "./Images/7 - Quantidade_de_utilizações_pelo_gênero.png" alt = "Gráfico 7"><br>
 
 Nota-se que a grande maioria das utilizações é realizada por homens. Seguindo-se a premissa que as utilizações tem seu foco no deslocamento para o trabalho, poderia se pensar, hipoteticamente, na possibilidade da mobilidade pela diferença na vestimenta entre homens e mulheres, principalmente em um ambiente formal. Ou ainda no fator segurança, por se tratar de uma cidade grande. Nesse caso, apenas hipóteses, que deveriam ser avaliadas para buscar soluções afim de aproximar o público feminino. <br><br><br>
 
-8 - Quantidade de utilizações por tipo de usuário
+<b>8 - Quantidade de utilizações por tipo de usuário</b>
 
 <br><img src = "./Images/8 - Quantidade_de_utilizações_por_tipo_de_usuário.png" alt = "Gráfico 8"><br>
 
 O gráfico implica que mais de 90% dos usuários são inscritos, isso pode implicar que a política de inscritos está funcionando e poderia ser melhor explorada e/ou as outras opções poderiam ser melhores exploradas ou descartadas. Os casos teriam que ser melhor abordados para se chegar na melhor política possível. <br><br><br>
 
-9 - 10 estações de partida com maior movimento
+<b>9 - 10 estações de partida com maior movimento</b>
 
 <br><img src = "./Images/9 - 10_estações_de_partida_com_maior_movimento.png" alt = "Gráfico 9"><br><br>
 
-10 - 10 estações de chegada com maior movimento
+<b>10 - 10 estações de chegada com maior movimento</b>
 
 <br><img src = "./Images/10 - 10_estações_de_chegada_com_maior_movimento.png" alt = "Gráfico 10"><br>
 
