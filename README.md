@@ -54,7 +54,7 @@ Esse case consiste em uma tabela única com 23 colunas, todas do tipo string, se
     <li> longitude_end: longitude de chegada </li>
     <li> dpcapacity_end: número de espaços para as bicicletas em cada estação de chegada</li><br>
 
-Sabendo-se disso, a arquivo .csv, localizado no bucket Raw, foi processado no EMR, utilizando Pyspark, no Jupyter Notebook.<br>
+Sabendo-se disso, a arquivo .csv, localizado no bucket Raw, foi processado no <b>EMR</b>, utilizando <b>Pyspark</b>, no Jupyter Notebook.<br>
 
 Buscou-se apenas o mínimo para a possível visualização posterior, sendo verificada a existência de nulos, que comprovou que não havia nulos nessa tabela.<br>
 
@@ -64,7 +64,7 @@ Ao final dessa etapa, foi gerado um novo arquivo, nesse caso .parquet e ele foi 
 
 ## Análise dos Dados
 
-Com os dados disponíveis no <b> RedShift </b>, conecta-se ao <b> Metabase </br> e o foco se vira para a análise em si. Com isso, alguns cruzamentos entre os dados foram realizados para bucar extrair informações relevantes, entre eles: <br>
+Com os dados disponíveis no <b> RedShift </b>, conecta-se ao <b> Metabase </b> e o foco se vira para a análise em si. Com isso, alguns cruzamentos entre os dados foram realizados para bucar extrair informações relevantes, entre eles: <br>
 
 1 - Quantidade de utilizações por ano
 
