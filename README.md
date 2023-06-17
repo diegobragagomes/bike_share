@@ -7,7 +7,13 @@ O principal objetivo desse projeto é entender melhor o perfil situacional da ut
 Ao todo, o projeto foi separado em <b> 3 fases: </b>
 <li> Arquitetura dos dados </li>
 <li> Entendimento e Processamento dos Dados </li>
-<li> Análise dos Dados</li>
+<li> Análise dos Dados</li><br>
+
+Principais Ferramentas:
+<li><b>AWS</b></li>
+<li> <b>Pyspark</b></li>
+<li><b>SQL</b></li>
+<li><b>Metabase</b></li><br>
 
 ## Arquitetura dos Dados
 
