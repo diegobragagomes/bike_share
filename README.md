@@ -76,7 +76,7 @@ Com os dados disponíveis no <b> RedShift </b>, conecta-se ao <b> Metabase </b> 
 
 <br><img src = "./Images/1 -Quantidade_de_utilizações_por_ano.png" alt = "Gráfico 1"><br>
 
-O gráfico demonstra a variação da quantidade de utilização do serviço ao longo dos anos. A partir dele, pode-se notar um aumento gradativo ao longo dos anos, sendo 2017 correspondente a quase o dobre de utilizações de 2014. <br><br><br>
+O gráfico demonstra a variação da quantidade de utilização do serviço ao longo dos anos. A partir dele, nota-se que 2017 corresponde a quase o dobro de utilizações de 2014. <br><br><br>
 
 <b>2 - Quantidade de utilizações por mês e pela média da temperatura</b>
 
@@ -140,7 +140,7 @@ Mas, o foco deve se dar no quesito que por apresentarem um grande volume, uma ma
 
 ## Conclusão
 
-O projeto foi elaborado tendo a premissa de avaliar, a partir dos dados, a relação entre as utilizações, perfil e as estações, buscando entender melhor sobre possíveis melhoras em estratégias e ofertas de serviço. Para isso, foram utilizadas ferramentas, tais como <b>Pyspark, SQL, AWS, Metabase</b> para auxiliar na resposta desses questionamentos.
+O projeto foi elaborado tendo a premissa de avaliar, a partir dos dados, a relação entre as utilizações, perfil e as estações, buscando entender melhor sobre possíveis melhorias em estratégias e ofertas de serviço. Para isso, foram utilizadas ferramentas, tais como <b>Pyspark, SQL, AWS, Metabase</b> para auxiliar na resposta desses questionamentos.
 
 Após o trabalho com os dados e a análise, nota-se que o principal perfil dos usuários é de homens, inscritos, provavelmente utilizando para trabalho, entre 8-10 e 16-18, com utilizações maiores em períodos quentes (como final da primavera e verão), focados principalmente em 5 grandes estações, seja para partida ou para chegada. 
 
